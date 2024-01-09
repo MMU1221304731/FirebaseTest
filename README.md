@@ -1,2 +1,2 @@
 # FirebaseTest
-Testing of Firebase Stripe Payment Function (help needed, thanks
+Testing of Firebase Stripe Payment Function (WANTED: help needed, thanks)
